@@ -49,8 +49,7 @@
 	icon_state = "toxin"
 
 /mob/living/simple_animal/hostile/centaur/strong // Mostly for FEV mutation
-	maxHealth = 400
-	health = 400
-	melee_damage_lower = 35
-	melee_damage_upper = 35
-	armour_penetration = 0.1
+	melee_damage_lower = 25
+	melee_damage_upper = 25
+	maxHealth = 200
+	health = 200
